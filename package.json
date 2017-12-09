@@ -6,10 +6,6 @@
     "postinstall": "ng build --aot -prod",
     "start": "node index.js"
   },
-  "engines": {
-    "node": "6.11.1",
-    "npm": "3.10.9"
-  },
   "private": true,
   "dependencies": {
     "@angular/animations": "^5.1.0",
